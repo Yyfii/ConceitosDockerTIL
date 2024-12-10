@@ -15,7 +15,7 @@ wordpress_app_v2 wordpress`
 
 O Wordpress por padrão deve receber as informações de um banco de dados para que ele possa realizar consultas. O que configuraremos em breve.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Passo 2: Testando o wordpress com o banco.
 
